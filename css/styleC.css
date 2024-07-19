@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Outfit;
+    src: url("../src/fonts/Outfit-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: Pirulen;
+    src: url("../src/fonts/pirulen.otf");
+}
+
+
+.body{  
+    font-family: Pirulen !important;
+}
+
+.navbar-brand img{
+    width: 10rem;
+}
+
